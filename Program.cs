@@ -53,7 +53,7 @@ int InputNumbers(string input)
 
 //Задача 68: Напишите программу вычисления функции Аккермана с помощью рекурсии. Даны два неотрицательных числа m и n.
 
-int m = InputNumbers("Введите m: ");
+/*int m = InputNumbers("Введите m: ");
 int n = InputNumbers("Введите n: ");
 
 int functionAkkerman = Ack(m, n);
@@ -72,4 +72,4 @@ int InputNumbers(string input)
   Console.Write(input);
   int output = Convert.ToInt32(Console.ReadLine());
   return output;
-}
+}*/
